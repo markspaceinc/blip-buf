@@ -2,7 +2,7 @@ blip_buf $vers
 --------------
 Author  : Shay Green <gblargg@gmail.com>
 Website : http://www.slack.net/~ant/
-License : GNU Lesser General Public License (LGPL)
+License : MIT/BSD-style license
 
 
 Contents

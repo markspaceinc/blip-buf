@@ -16,7 +16,7 @@ library, get Blip_Buffer.
 
 Author  : Shay Green <gblargg@gmail.com>
 Website : http://www.slack.net/~ant/
-License : GNU Lesser General Public License (LGPL)
+License : MIT/BSD-style license
 Language: C
 
 
@@ -40,7 +40,7 @@ Files
 -----
 readme.txt            Essential information
 blip_buf.txt          Library documentation
-license.txt           GNU Lesser General Public License
+license.txt           MIT/BSD-style license
 
 makefile              Builds demos (type "make" at command-line)
 
